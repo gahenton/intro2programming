@@ -1,0 +1,5 @@
+1. arr.index(5) returns 3 (answers the question, “what index value is the first instance of the value 5 stored at?”)
+
+2. arr.index[5] gives error
+
+3. arr[5] returns 8 (answers the question, “what value is at index 5?”)

@@ -1,0 +1,1 @@
+The code prints out nothing to the screen because the return on line 3 prevents the puts words on line 4 from having any effect.

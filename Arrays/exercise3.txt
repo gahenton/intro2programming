@@ -1,0 +1,3 @@
+puts arr.last.first
+
+this actually prints “example” to the screen. In my thinking, the solution should be updated. It is incorrect. typing arr.last.first in irb shows that “example” will be returned but the question specifically asks how to print it.

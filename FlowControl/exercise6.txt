@@ -1,0 +1,1 @@
+the method “equal_to_four(x)” was opened with the keyword “def” but should have been closed with the keyword “end”. There’s one end already here but that closes what the keyword “if” opened. There needs to be one more “end”. 

@@ -1,0 +1,5 @@
+Arrays are indexed with integers, not strings. 
+
+The correct way to modify the array is this:
+
+names[3] = ‘jody’ 

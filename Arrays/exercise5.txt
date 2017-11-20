@@ -1,0 +1,6 @@
+1. The value of a is “e”
+
+2. The value of b is “A”
+
+3. The value of c is “nil” (or returns nil).
+

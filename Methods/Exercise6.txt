@@ -1,0 +1,2 @@
+The person is calling a method called calculate_product that requires two arguments, but they are only providing one.
+
