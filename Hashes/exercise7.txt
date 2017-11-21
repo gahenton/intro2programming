@@ -1,0 +1,3 @@
+in my_hash, x is just a symbol.
+
+in my_hash2, x is a variable that has the string value “hi there” stored in it
